@@ -1,0 +1,23 @@
+{
+  "name": "dynamic-template-generator",
+  "version": "0.0.0",
+  "description": "An app for creating dynamic cources",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wormius51/dynamic-template-generator-.git"
+  },
+  "author": "Eyal Hazor And Jurricus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wormius51/dynamic-template-generator-/issues"
+  },
+  "homepage": "https://github.com/wormius51/dynamic-template-generator-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
